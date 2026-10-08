@@ -1,0 +1,8 @@
+# Secrets: never commit real credentials
+credentials.json
+
+# Local data and caches
+hate_speech_data.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
